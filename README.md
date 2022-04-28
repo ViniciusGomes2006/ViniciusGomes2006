@@ -28,7 +28,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ViniciusGomes2006&theme=dark&show_icons=true">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGomes2006&hide=html&layout=compact&theme=dark">
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGomes2006&layout=compact&theme=dark
 
 <br><br>
 
