@@ -31,7 +31,7 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;GitHub Analytics
+## 👨🏽‍🦲 &nbsp;SOCIAL
 
 <p align="left">
     <!-- <a href="" alt="Discord">
